@@ -1,0 +1,46 @@
+
+# SQL Learning & ETL Practice – README
+
+This repository contains SQL scripts organized **day-wise** and **topic-wise** to build strong foundations in **SQL, Joins, and ETL concepts**.  
+Each day focuses on a specific learning objective, progressing from basics to interview-level understanding.
+
+---
+
+## Learning Plan Overview
+
+| Day | SQL File Name | Topic | Description |
+|----|--------------|-------|-------------|
+| Day 1 | sample_data_create_script.sql | Sample Data & Tables | Creates basic tables and inserts sample data used across all practice sessions. |
+| Day 1 | sample_data_read_csv.sql | Data Ingestion | Demonstrates how to read or load CSV/external data into SQL tables. |
+| Day 2 | basic_etl_employee.sql | ETL Fundamentals | End-to-end ETL flow using Source → Staging → Target with INSERT & UPDATE logic and datatype conversion. |
+| Day 2 | learning_ETL_sql.sql | ETL Concepts | Covers ETL terminology, incremental loads, and change detection logic. |
+| Day 3 | join_explaination_with_examples.sql | SQL Joins | Detailed explanation of INNER, LEFT, RIGHT, and FULL joins with examples. |
+| Day 3 | test_file.sql | Practice Queries | Small test queries for hands-on SQL practice and self-evaluation. |
+| Day 4 | day2_class.sql | Incremental Loads | Builds on ETL by handling daily data loads and comparison logic. |
+| Day 5 | day4_interview_questions.sql | Interview Preparation | Common SQL and ETL interview questions with practical query patterns. |
+
+---
+
+## How to Use This Repository
+
+1. Start with **Day 1** to understand table creation and sample data.
+2. Move to **Day 2** for ETL pipeline basics (Source → Staging → Target).
+3. Practice **joins** before attempting complex transformations.
+4. Re-run ETL scripts multiple times to simulate **daily loads**.
+5. Use interview question scripts for **revision and confidence building**.
+
+---
+
+## Skills Covered
+
+- SQL DDL & DML
+- Data type conversion
+- Incremental ETL design
+- Insert vs Update logic
+- SQL joins
+- Interview-ready SQL patterns
+
+---
+
+Happy Learning 🚀  
+Suitable for **Data Engineering, Analytics, and SQL Interview Preparation**.
